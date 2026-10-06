@@ -1,0 +1,16 @@
+2407197f1d20b03d992b980d047459e6 *DESCRIPTION
+2ddd50d3d9efa5e8ac1e7a7c1e759f2f *NAMESPACE
+1e3c82a92c1f9394d95fff2ee6ce8021 *R/garrett_example.R
+2cef501dce8e6439604d7c886a21cd14 *R/garrett_rank.R
+5d52df93d9b5b3c9004a2ff433ee7946 *README.md
+2c8e0d2b51c20a4dfd4114261779d4c2 *data/garrett_example.rda
+f0fa973e517a621e8acabd8070f6bef3 *inst/WORDLIST
+a5db8bf8927ca7e9b47217041d83e328 *man/dot-validate_ranking_data.Rd
+cb528f4077f0867fafc740137ca832a7 *man/garrett_example.Rd
+505e8c0a64ac4e7286a052ceeef6c491 *man/garrett_rank.Rd
+4c556a2a47c6a7a27ee4cf296e91bf32 *man/garrett_table.Rd
+de2d856ac5c0b1cfaa35c9c9eed18ffa *man/kendall_w.Rd
+0638492dda254c5a69566283e89648b8 *man/plot.garrett.Rd
+2db551c5604c0a0469b2b3a84b593e12 *tests/testthat.R
+d34d57f82ae1e156fb594850d28fc2ff *tests/testthat/test-GarrettRank.R
+d34d57f82ae1e156fb594850d28fc2ff *tests/testthat/test-garrett_rank.R

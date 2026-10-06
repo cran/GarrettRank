@@ -1,0 +1,61 @@
+Package: GarrettRank
+Type: Package
+Title: Garrett Ranking Analysis and Visualization
+Version: 0.1.5
+Authors@R: 
+  c(
+    person(
+      "Blesson B.", "Varghese",
+      email = "blessonvarghese1234@gmail.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Adarsh", "V S",
+      email = "adarshvs0007@gmail.com",
+      role = "aut"
+    ),
+    person(
+      "Bhavana", "Sajeev",
+      email = "bhavanasajeev0808@gmail.com",
+      role = "aut"
+    ),
+    person(
+      "Azhanuo", "Rutsa",
+      email = "azhanuorutsa@gmail.com",
+      role = "aut"
+    ),
+    person(
+      "Joe Shiney", "M A",
+      email = "joeshiney3@gmail.com",
+      role = "aut"
+    )
+  )
+Description: 
+    Performs Garrett ranking analysis of respondent-ranked items such as
+    constraints, problems, factors, or priorities. The package converts
+    respondent rankings into Garrett scores, calculates mean Garrett scores
+    and final ranks and provides methods for summarizing,tabulating and 
+    visualizing ranking results. It also provides Kendall's coefficient of 
+    concordance for assessing the degree of agreement among respondents. 
+    Garrett ranking does not accommodate tied ranks and Kendall's coefficient
+    of concordance is likewise computed for untied ranking data.For more details see
+    Garrett and Woodworth (1969) <https://books.google.com/books?id=aoqSmQEACAAJ> and
+    Buragohain and Dubey (2021) <doi:10.5958/2454-552X.2021.00055.4>.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: ggplot2, pheatmap, rlang
+Suggests: readxl, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Depends: R (>= 3.5)
+LazyData: true
+NeedsCompilation: no
+Packaged: 2026-09-26 03:11:27 UTC; bejoy
+Author: Blesson B. Varghese [aut, cre],
+  Adarsh V S [aut],
+  Bhavana Sajeev [aut],
+  Azhanuo Rutsa [aut],
+  Joe Shiney M A [aut]
+Maintainer: Blesson B. Varghese <blessonvarghese1234@gmail.com>
+Repository: CRAN
+Date/Publication: 2026-10-06 16:40:08 UTC
